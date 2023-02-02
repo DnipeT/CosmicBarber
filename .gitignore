@@ -1,4 +1,4 @@
-# Logs
+git credential-manager-core get# Logs
 logs
 *.log
 npm-debug.log*
